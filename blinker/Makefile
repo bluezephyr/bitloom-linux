@@ -11,6 +11,7 @@ SRC    := scheduler.c \
 
 INC    := ../../bitloom-core/include \
 	  ../../bitloom-core/include/hal \
+	  config \
 	  src \
 
 

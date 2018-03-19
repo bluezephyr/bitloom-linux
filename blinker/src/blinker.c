@@ -9,7 +9,6 @@
  */
 
 #include "blinker.h"
-#include "config.h"
 #include <stdio.h>
 
 // This id is given by the scheduler when the task is added.

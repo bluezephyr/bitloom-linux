@@ -9,7 +9,6 @@
  */
 
 #include "scheduler.h"
-#include "config.h"
 #include "blinker.h"
 
 #include <stdio.h>
